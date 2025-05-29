@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environments
+venv/
+.env/
+
+# Langchain / Chroma / cache
+chroma_langchain_db/
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
